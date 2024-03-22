@@ -1,0 +1,41 @@
+span{
+    font-size: 30px;
+    font-weight: bold;
+}
+#logo{
+    float: right;     
+}
+p{
+    overflow: auto;
+}
+nav{
+    float: left;
+    width: 205;
+    height: 100%;
+}
+#toppage{
+    width: 100%;
+ 
+}
+nav{
+    width: 20%;
+    height: 100%;
+    float: left;
+}
+
+section {
+    float: right;
+    width: 80%;
+    height: 100%;
+}
+#maphoto{
+    float: left;
+}
+#aGauche{
+    float: left;
+    width: 40%;
+}
+#aDroite{
+    float: right;
+    width: 58%;
+}
